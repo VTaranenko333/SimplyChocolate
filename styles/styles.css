@@ -52,7 +52,7 @@ span {
     font-style: italic;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.11111;
+    line-height: 1.11;
     letter-spacing: -0.03em;
     color: #111;
 }
@@ -60,7 +60,7 @@ span {
 .header-menu-link {
     font-weight: 500;
     font-size: 14px;
-    line-height: 1.14286;
+    line-height: 1.14;
     letter-spacing: -0.02em;
     color: #111;
 }
